@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### SCROLL FURTHER DOWN TO READ APP DOCUMENTATION
 
 ## Available Scripts
 
@@ -66,3 +67,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+##  ABOUT APP
+
+The function of this app is simply to detect faces if there are any in a picture. <br/>
+This is achieved using the CLARIFAI api which makes it easier. Under the models in this api, the face detection model was used (read more at 'https://www.clarifai.com/models/face-detection'). You can also read more about clarifai on github through 'https://www.npmjs.com/package/clarifai'<br/>
+The styles used in the app were mainly tachyons (run 'npm install tachyons') and also stylesheets were created to help for custom styles<br/>
+The application background that looks like connected dots is gotten from particles.js (rum 'npm install react-particle-js'). Go to 'https://www.npmjs.com/package/react-particles-js' to learn more, it's a very fun tool.<br/>
+The tilt effect on the logo on hover was achieved with react tilt(run 'npm install react-tilt')
+
